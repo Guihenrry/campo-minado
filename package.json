@@ -1,0 +1,17 @@
+{
+  "name": "campo-minado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "play.js",
+  "scripts": {
+    "dev": "node --watch --no-warnings play.js",
+    "start": "node play.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
